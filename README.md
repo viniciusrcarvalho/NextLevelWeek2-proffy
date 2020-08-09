@@ -2,7 +2,7 @@
   <img width="182" alt="Proffy" src="https://user-images.githubusercontent.com/11545976/89233363-d22f3380-d5bf-11ea-8ece-a7feefc33bc4.png">
 </h1>
 
-## 👨‍🏫 Proffy | Next Level Week - 2nd Edition - 2º Edição
+## 👨‍🏫 Proffy | Next Level Week - 2nd Edition | 2º Edição
 
 The purpose of the application is to propose an environment where people can register to teach classes or look for teachers. The teacher will inform the content of your specialty, the available times and the value of your hour / class.
 
