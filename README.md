@@ -2,9 +2,11 @@
   <img width="182" alt="Proffy" src="https://user-images.githubusercontent.com/11545976/89233363-d22f3380-d5bf-11ea-8ece-a7feefc33bc4.png">
 </h1>
 
-## 👨‍🏫 Proffy | Next Level Week - 2nd Edition
+## 👨‍🏫 Proffy | Next Level Week - 2nd Edition - 2º Edição
 
 The purpose of the application is to propose an environment where people can register to teach classes or look for teachers. The teacher will inform the content of your specialty, the available times and the value of your hour / class.
+
+O objetivo do aplicativo é propor um ambiente onde as pessoas possam se cadastrar para dar aulas ou procurar professores. O professor informará o conteúdo da sua especialidade, os horários disponíveis e o valor da sua hora / aula.
 
 ## 🚀 Index
 - ⚙ [Tecnologies](#-tecnologies)
@@ -38,42 +40,45 @@ The purpose of the application is to propose an environment where people can reg
 
 ---
 
-## 💻 How to run
+## 💻 How to run - como rodar
 
   > Cloning the repository
   ```bash
     # Cloning repository
-    git clone https://github.com/AugustoMarcelo/proffy.git
+    git clone https://github.com/viniciusrcarvalho/NextLevelWeek2-proffy.git
   ```
 
-  > Running web project
+  > Running web project | Rodando o projeto web
   ```bash
-    # Accessing web project
+    # Accessing web project | Acessando projeto web
     cd web
     
-    # Running web project
+    # Running web project | Rodar o projeto
     yarn start
   ```
 
-  > Running server
+  > Running server | Rodar o server
   ```bash
-    # Accessing server project
+    # Accessing server project | Acessando projeto server
     cd server
 
-    # Run migrations to create the tables
+    # Run migrations to create the tables | Rodando as migrations para criar as tabelas
     yarn knex:migrate
 
-    # Run server
+    # Run server - Rodar o Server
     yarn start
   ```
 
-  > Running mobile project
-  > You will need to download the Expo app. When the application starts, scan the qrcode with the Expo you installed.
+  > Running mobile project | Rodando projeto mobile
+  > You will need to download the Expo app. When the application starts, scan the qrcode with the Expo you installed.  | 
+    Você precisará baixar o aplicativo Expo. Quando o aplicativo for iniciado, digitalize o qrcode com a Expo que você instalou.
+  
   ```bash
-    # Accessing mobile project
+    # Accessing mobile project | Acessando projeto móvel
     cd mobile
 
-    # Change the IP in services/api.ts to connect with the back end
+    # Change the IP in services/api.ts to connect with the back end | 
+      Altere o IP em services / api.ts para se conectar ao back end
     cd services
 
     # Running
