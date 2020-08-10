@@ -18,7 +18,7 @@ O objetivo do aplicativo é propor um ambiente onde as pessoas possam se cadastr
 
 ## ⚙ Technologies
   - **Back end**
-    - NodeJS
+    - NodeJS  - Version v12.18.2 | npm v6.14.5
     - Typescript
     - express
     - sqlite3
